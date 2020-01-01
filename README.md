@@ -1,7 +1,7 @@
 # CCC---CrazyCreatorCube
 3D-Printer with accuracy, speed and much more.
 
-Der aktuelle Stand kann hier: https://a360.co/36sgf0f angeschaut werden.
+
 
 Vorwort:
 ... oder auch, ein paar Grundlegende Informationen zum CCC.
@@ -29,7 +29,7 @@ Recht herzlichen dank an all' die klugen Köfpe die sich diese Systeme haben ein
 
 
 English:
-The current status can be viewed here: https://a360.co/36sgf0f.
+
 
 Foreword:
 ... or even, a few basic information about the CCC.
