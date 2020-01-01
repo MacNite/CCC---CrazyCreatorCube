@@ -21,7 +21,7 @@ Besonderheiten:
 - Das Druckbett wird durch ein magnetisch unterstütztes Kelvin-Coupling mit den Druckbetthaltern verbunden.
 
 Abmessungen:
-Druckbereich: 350x350x340mm
+Druckbereich: 350x350x320mm
 Außenmaße: 600x600x600
 
 
@@ -49,7 +49,7 @@ Particularities:
 - The print bed is connected to the print bed holders by a magnetically assisted Kelvin coupling.
 
 Dimensions:
-Pressure range: 350x350x340mm
+Pressure range: 350x350x320mm
 External dimensions: 600x600x600
 
 
